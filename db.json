@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "name": "smart tv",
+      "email": "hee@gmail.com",
+      "password": "rrr@123gmail.com",
+      "gender": "Male",
+      "id": "WZeyknATgws"
+    },
+    {
+      "name": "raval rohit",
+      "email": "raval@gmail.com",
+      "password": "fdfdg@gmail.com",
+      "gender": "Male",
+      "id": "7wpVvP6_8ks"
+    },
+    {
+      "name": "smart ",
+      "email": "raval@gmail.com",
+      "password": "fdfdg@gmail.com",
+      "gender": "Male",
+      "id": "zkPYmJ74kWE"
+    },
+    {
+      "name": "raval rohit",
+      "email": "hee@gmail.com",
+      "password": "rrr@123gmail.com",
+      "gender": "Female",
+      "id": "NUtnbW0bSpg"
+    },
+    {
+      "name": "rathod harshit",
+      "email": "hee@gmail.com",
+      "password": "fdfdg@gmail.com",
+      "gender": "Male",
+      "id": "kvWsIVdsakg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
